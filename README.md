@@ -18,5 +18,5 @@ The images for camera calibration are stored in the folder called `camera_cal`. 
 
 Final result:
 
-![alt text](output_videos/project_video_processed.gif "Result")
+![alt text](output_videos/project_video_gif.gif "Result")
 
